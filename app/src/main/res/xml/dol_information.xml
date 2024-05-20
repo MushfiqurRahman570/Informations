@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- start of Dhaka division-->
+    <Content>
+        <DOLDivision>Dhaka</DOLDivision>
+        <DOLName>গাজীপুর-টংগী কেন্দ্র</DOLName>
+        <DRName>ডাঃ ফেরদৌস আক্তার</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, টংগী, গাজীপুর।</DOLAddress>
+        <DOLPhone>01920715984</DOLPhone>
+        <DOLEmail>lwctongigazipur@gmail.com</DOLEmail>
+        <DOLLatitude>23.91543</DOLLatitude>
+        <DOLLongitude>90.39488</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Dhaka</DOLDivision>
+        <DOLName>ঢাকা-তেজগাঁও কেন্দ্র</DOLName>
+        <DRName>ডা:সৈয়দা নুরূন নাহার ইসলাম</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, ৮১ শহীদ তাজউদ্দিন স্মরণী, তেজগাঁও, ঢাকা।</DOLAddress>
+        <DOLPhone>01716080227</DOLPhone>
+        <DOLEmail>lwctejdhaka@gmail.com</DOLEmail>
+        <DOLLatitude>23.7693224</DOLLatitude>
+        <DOLLongitude>90.4012061</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Dhaka</DOLDivision>
+        <DOLName>নারায়ণগঞ্জ-চাষাঢ়া কেন্দ্র</DOLName>
+        <DRName>ডাঃ রিফাত মেহজাবিন</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র,চাষাঢ়া, নারায়ণগঞ্জ।</DOLAddress>
+        <DOLPhone>01716011432</DOLPhone>
+        <DOLEmail>lwc.chashara@gmail.com</DOLEmail>
+        <DOLLatitude>23.624019</DOLLatitude>
+        <DOLLongitude>90.499907</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Dhaka</DOLDivision>
+        <DOLName>নারায়ণগঞ্জ-বন্দর কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, বন্দর, নারায়ণগঞ্জ।</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>23.631417</DOLLatitude>
+        <DOLLongitude>90.535781</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Dhaka</DOLDivision>
+        <DOLName>নরসিংদী-সাঁটিরপাড়া কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, সাঁটিরপাড়া, নরসিংদী|</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>23.918416</DOLLatitude>
+        <DOLLongitude>90.713148</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Dhaka</DOLDivision>
+        <DOLName>নরসিংদী-পলাশ কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, পলাশ, ঘোড়াশাল, নরসিংদী|</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>23.972976</DOLLatitude>
+        <DOLLongitude>90.634306</DOLLongitude>
+    </Content>
+    <!-- start of Mymensingh division-->
+
+    <Content>
+        <DOLDivision>Mymensingh</DOLDivision>
+        <DOLName>জামালপুর-সরিষাবাড়ি কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, সরিষাবাড়ি,জামালপুর|</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>24.753982</DOLLatitude>
+        <DOLLongitude>89.836101</DOLLongitude>
+    </Content>
+
+    <!-- start of Chittagong division-->
+
+
+    <Content>
+        <DOLDivision>Chittagong</DOLDivision>
+        <DOLName>চট্টগ্রাম-কালুরঘাট কেন্দ্র</DOLName>
+        <DRName>ডাঃ রাজিব কুমার চৌধুরী</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, কালুরঘাট, চট্টগ্রাম|</DOLAddress>
+        <DOLPhone>01842383111</DOLPhone>
+        <DOLEmail>moklwc@gmail.com</DOLEmail>
+        <DOLLatitude>22.374594</DOLLatitude>
+        <DOLLongitude>91.851321</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Chittagong</DOLDivision>
+        <DOLName>চট্টগ্রাম-ষোলশহর কেন্দ্র</DOLName>
+        <DRName>ডাঃ রাশেদ মাহমুদ জুলফিকার</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, ষোলশহর, চট্টগ্রাম|</DOLAddress>
+        <DOLPhone>01817741746</DOLPhone>
+        <DOLEmail>drrashedmahmud@yahoo.com</DOLEmail>
+        <DOLLatitude>22.366393</DOLLatitude>
+        <DOLLongitude>91.823116</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Chittagong</DOLDivision>
+        <DOLName>ব্রাহ্মণবাড়ীয়া-আশুগঞ্জ কেন্দ্র</DOLName>
+        <DRName>ডাঃ নভোনীলা দাস</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, আশুগঞ্জ, ব্রাহ্মণবাড়ীয়া।</DOLAddress>
+        <DOLPhone>01717103389</DOLPhone>
+        <DOLEmail>medicalofficergorashal@gmail.com</DOLEmail>
+        <DOLLatitude>24.036993</DOLLatitude>
+        <DOLLongitude>91.002738</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Chittagong</DOLDivision>
+        <DOLName>চাঁদপুর-চাঁদপুর কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, চাঁদপুর।</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>23.232947</DOLLatitude>
+        <DOLLongitude>90.648437</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Chittagong</DOLDivision>
+        <DOLName>রাঙ্গামাটি-ঘাগড়া কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, ঘাগড়া,রাঙ্গামাটি।</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>22.608405</DOLLatitude>
+        <DOLLongitude>92.097745</DOLLongitude>
+    </Content>
+
+    <Content>
+        <DOLDivision>Chittagong</DOLDivision>
+        <DOLName>নোয়াখালী-চৌমুহনী কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, চৌমুহনী,নোয়াখালী।</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>22.946042</DOLLatitude>
+        <DOLLongitude>91.117715</DOLLongitude>
+    </Content>
+
+
+    <!-- start of Sylhet division-->
+    <Content>
+        <DOLDivision>Sylhet</DOLDivision>
+        <DOLName>মৌলভীবাজার-ফুসকুড়ি কেন্দ্র</DOLName>
+        <DRName>ডাঃ নিবাস চন্দ্র পাল</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, ফুসকুড়ি,শ্রীমঙ্গল,মৌলভীবাজার|</DOLAddress>
+        <DOLPhone>01711325713</DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>24.218595</DOLLatitude>
+        <DOLLongitude>91.709679</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Sylhet</DOLDivision>
+        <DOLName>মৌলভীবাজার-সমশের নগর কেন্দ্র</DOLName>
+        <DRName>ডাঃ প্রিয়তোষ রায়</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, সমশের নগর,মৌলভীবাজার।</DOLAddress>
+        <DOLPhone>01712902631</DOLPhone>
+        <DOLEmail>preotushroy@gmail.com</DOLEmail>
+        <DOLLatitude>24.491271</DOLLatitude>
+        <DOLLongitude>91.780622</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Sylhet</DOLDivision>
+        <DOLName>মৌলভীবাজার-পাত্রখোলা কেন্দ্র</DOLName>
+        <DRName>ডাঃ রিপন ভৌমিক</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, পাত্রখোলা, কমলগঞ্জ, মৌলভীবাজার।</DOLAddress>
+        <DOLPhone>01717446965</DOLPhone>
+        <DOLEmail>dr.riponbhowmik@gmail.com</DOLEmail>
+        <DOLLatitude>24.356423</DOLLatitude>
+        <DOLLongitude>91.855536</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Sylhet</DOLDivision>
+        <DOLName>হবিগঞ্জ-চন্ডিছড়া কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, চন্ডিছড়া,হবিগঞ্জ।</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>24.200125</DOLLatitude>
+        <DOLLongitude>91.519332</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Sylhet</DOLDivision>
+        <DOLName>মৌলভীবাজার-কাপনা পাহাড় কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, কাপনা পাহাড়,মৌলভীবাজার।</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>24.557951</DOLLatitude>
+        <DOLLongitude>92.130942</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Sylhet</DOLDivision>
+        <DOLName>সিলেট-চিকনাগুল কেন্দ্র</DOLName>
+        <DRName>ডাঃ অনামিকা পাল</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, চিকনাগুল,সিলেট।</DOLAddress>
+        <DOLPhone>01799202623</DOLPhone>
+        <DOLEmail>lwcsylhet@gmail.com</DOLEmail>
+        <DOLLatitude>24.960090</DOLLatitude>
+        <DOLLongitude>92.013899</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Sylhet</DOLDivision>
+        <DOLName>মৌলভীবাজার-লোয়া্উনি কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, লোয়া্উনি,কুলাউড়া,মৌলভীবাজার।</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>24.527396</DOLLatitude>
+        <DOLLongitude>92.034999</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Sylhet</DOLDivision>
+        <DOLName>চা শিল্প শ্রম কল্যাণ বিভাগ</DOLName>
+        <DRName>ডাঃ দিবাকর সিংহ</DRName>
+        <DOLAddress>চা শিল্প শ্রম কল্যাণ বিভাগ,শ্রীমঙ্গল, মৌলভীবাজার।</DOLAddress>
+        <DOLPhone>01712921295</DOLPhone>
+        <DOLEmail>smosreemangal@gmail.com</DOLEmail>
+        <DOLLatitude>24.307845</DOLLatitude>
+        <DOLLongitude>91.734313</DOLLongitude>
+    </Content>
+
+    <!-- start of Khulna division-->
+
+    <Content>
+        <DOLDivision>Khulna</DOLDivision>
+        <DOLName>খুলনা-রূপসা কেন্দ্র</DOLName>
+        <DRName>ডা:তামান্না নাসরিন</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, রূপসা, খুলনা|</DOLAddress>
+        <DOLPhone>01717338234</DOLPhone>
+        <DOLEmail>lwc.rupsa@gmail.com</DOLEmail>
+        <DOLLatitude>22.808059</DOLLatitude>
+        <DOLLongitude>89.644504</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Khulna</DOLDivision>
+        <DOLName>খুলনা-খালিশপুর কেন্দ্র</DOLName>
+        <DRName>জনাব ডাঃ চাঁদ মোহাম্মদ</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, খালিশপুর|</DOLAddress>
+        <DOLPhone>01718119949</DOLPhone>
+        <DOLEmail>lwckhalishpur@gmail.com</DOLEmail>
+        <DOLLatitude>22.848988</DOLLatitude>
+        <DOLLongitude>89.541272</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Khulna</DOLDivision>
+        <DOLName>বাগেরহাট-মংলা কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, মংলা, বাগেরহাট।</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>22.493583</DOLLatitude>
+        <DOLLongitude>89.601037</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Khulna</DOLDivision>
+        <DOLName>খুলনা-কুষ্টিয়া কেন্দ্র</DOLName>
+        <DRName>ডাঃ এস.এম. নাজিম উদ্দিন</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, কুষ্টিয়া,খুলনা।</DOLAddress>
+        <DOLPhone>01712599165</DOLPhone>
+        <DOLEmail>nazim.kst@gmail.com</DOLEmail>
+        <DOLLatitude>23.904861</DOLLatitude>
+        <DOLLongitude>89.120578</DOLLongitude>
+    </Content>
+
+    <!-- start of Barisal division-->
+    <Content>
+        <DOLDivision>Barisal</DOLDivision>
+        <DOLName>বরিশাল-আমানতগঞ্জ কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, আমানতগঞ্জ,বরিশাল।</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>22.721737</DOLLatitude>
+        <DOLLongitude>90.380416</DOLLongitude>
+    </Content>
+
+    <!-- start of Rajshahi division-->
+
+    <Content>
+        <DOLDivision>Rajshahi</DOLDivision>
+        <DOLName>রাজশাহী-সপুরা কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, সপুরা, রাজশাহী|</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>24.380452</DOLLatitude>
+        <DOLLongitude>88.605397</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Rajshahi</DOLDivision>
+        <DOLName>রাজশাহী-সিরাজগঞ্জ কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, সিরাজগঞ্জ|</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>24.451147</DOLLatitude>
+        <DOLLongitude>89.702301</DOLLongitude>
+    </Content>
+
+    <Content>
+        <DOLDivision>Rajshahi</DOLDivision>
+        <DOLName>রাজশাহী-বগুড়া কেন্দ্র</DOLName>
+        <DRName>ডাঃ মোঃ তৌহিদুর রহমান</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, বগুড়া|</DOLAddress>
+        <DOLPhone>01617124329</DOLPhone>
+        <DOLEmail>touhid_j@yahoo.com</DOLEmail>
+        <DOLLatitude>24.848015</DOLLatitude>
+        <DOLLongitude>89.372957</DOLLongitude>
+    </Content>
+
+    <!-- start of Rangpur division-->
+    <Content>
+        <DOLDivision>Rangpur</DOLDivision>
+        <DOLName>নীলফামারী-সৈয়দপুর কেন্দ্র</DOLName>
+        <DRName>ডাঃ ষষ্ঠীচরণ চক্রবর্তী</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, সৈয়দপুর,নীলফামারী|</DOLAddress>
+        <DOLPhone>01712227620</DOLPhone>
+        <DOLEmail>drchakravarty20@gmail.com</DOLEmail>
+        <DOLLatitude>25.787943</DOLLatitude>
+        <DOLLongitude>88.892277</DOLLongitude>
+    </Content>
+
+    <Content>
+        <DOLDivision>Rangpur</DOLDivision>
+        <DOLName>রংপুর-গাইবান্ধা কেন্দ্র</DOLName>
+        <DRName>ডাঃ আসাদুল হক</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, গাইবান্ধা|</DOLAddress>
+        <DOLPhone>01737874477</DOLPhone>
+        <DOLEmail>asadulhaqye128.sh5.bd@gmail.com</DOLEmail>
+        <DOLLatitude>25.328220</DOLLatitude>
+        <DOLLongitude>89.538435</DOLLongitude>
+    </Content>
+    <Content>
+        <DOLDivision>Rangpur</DOLDivision>
+        <DOLName>রংপুর-লালমনিরহাট কেন্দ্র</DOLName>
+        <DRName>পদ শূন্য</DRName>
+        <DOLAddress>শ্রম কল্যাণ কেন্দ্র, লালমনিরহাট|</DOLAddress>
+        <DOLPhone></DOLPhone>
+        <DOLEmail></DOLEmail>
+        <DOLLatitude>25.911988</DOLLatitude>
+        <DOLLongitude>89.445393</DOLLongitude>
+    </Content>
+
+</resources>

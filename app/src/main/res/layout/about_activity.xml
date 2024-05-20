@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:ads="http://schemas.android.com/apk/res-auto"
+              xmlns:card_view="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:id="@+id/cadllMain"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_weight="1"
+              android:orientation="vertical">
+
+    <include layout="@layout/about_common_layout"></include>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+            android:orientation="vertical"
+            >
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@android:color/transparent"
+                        android:src="@drawable/ic_launcher"/>
+
+                    <TextView
+                        android:id="@+id/textView13t"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:gravity="center"
+                        android:text="@string/app_name"/>
+
+
+                    <TextView
+                        android:id="@+id/textView13"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:gravity="center"
+                        android:text="ভার্সন : ১.১"/>
+
+                </LinearLayout>
+
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@color/colorPrimary"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:gravity="center"
+                        android:layout_height="40dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"
+                        android:textSize="16sp"
+                        android:text="@string/title_1"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:gravity="fill"
+                            android:text="@string/detail_1"/>
+
+                    </LinearLayout>
+                    </LinearLayout>
+<!-- bulletine marking start -->
+           <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_marginTop="10dp">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:weightSum="10"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginBottom="5dp"
+                            ><!--
+                            <ImageView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/tips_bullet"
+                                android:layout_marginRight="10dp"
+                                android:layout_gravity="center"
+                                android:layout_weight="1"
+                                />-->
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_weight="9"
+                                android:gravity="left"
+                                android:textSize="18sp"
+                                android:text="শ্রম কল্যাণ কেন্দ্রের সেবাসমূহ:"/>
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:weightSum="10"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginBottom="5dp"
+                            >
+                            <ImageView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/tips_bullet"
+                                android:layout_marginRight="10dp"
+                                android:layout_gravity="center"
+                                android:layout_weight="1"
+                                />
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_weight="9"
+                                android:gravity="left"
+                                android:textSize="16sp"
+                                android:text="বিনামূল্যে চিকিৎসা সেবা প্রদান।"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:weightSum="10"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginBottom="5dp"
+                            >
+                            <ImageView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/tips_bullet"
+                                android:layout_marginRight="10dp"
+                                android:layout_gravity="center"
+                                android:layout_weight="1"
+                                />
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_weight="9"
+                                android:gravity="left"
+                                android:textSize="16sp"
+                                android:text="শ্রম আইন ও শ্রম প্রশাসন সংক্রান্ত প্রশিক্ষণ পরিচালনা।"/>
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:weightSum="10"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginBottom="5dp"
+                            >
+                            <ImageView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/tips_bullet"
+                                android:layout_marginRight="10dp"
+                                android:layout_gravity="center"
+                                android:layout_weight="1"
+                                />
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_weight="9"
+                                android:gravity="left"
+                                android:textSize="16sp"
+                                android:text="পরিবার পরিকল্পনা  সেবা প্রদান।"/>
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:weightSum="10"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginBottom="5dp"
+                            >
+                            <ImageView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/tips_bullet"
+                                android:layout_marginRight="10dp"
+                                android:layout_gravity="center"
+                                android:layout_weight="1"
+                                />
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_weight="9"
+                                android:gravity="left"
+                                android:textSize="16sp"
+                                android:text="চিত্তবিনোদন সেবা প্রদান।"/>
+
+
+                    </LinearLayout>
+                    <!-- end marking -->
+                   <!-- <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:gravity="fill"
+                            android:text="@string/detail_1"/>
+
+                    </LinearLayout> -->
+
+                </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+
+                <TextView
+                    android:id="@+id/textView134"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:gravity="center"
+                    android:text=""/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:background="@color/colorPrimary"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:gravity="center"
+                    android:layout_height="40dp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff"
+                    android:textSize="16sp"
+                    android:text="কারিগরি সহায়তায়"/>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#fff"
+                    android:elevation="4dp"
+                    android:padding="16dp">
+
+                    <ImageView
+                        android:id="@+id/cardview_image3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginRight="18dp"
+                        android:src="@drawable/company" />
+
+                    <TextView
+                        android:id="@+id/cardview_list_title3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_toRightOf="@+id/cardview_image3"
+                        android:paddingBottom="5dp"
+                        android:text="INovex Idea Solution."
+                        android:textSize="18sp" />
+                    <TextView
+                        android:id="@+id/cardview_list_title4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/cardview_list_title3"
+                        android:layout_toRightOf="@+id/cardview_image3"
+                        android:text="“ WE ARE COMMITTED TO IMPLEMENT YOUR IDEA. ”"
+                        android:textSize="12sp" />
+
+                    <!--<TextView
+                        android:id="@+id/short_description4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/cardview_list_title4"
+                        android:text= '\n 43/2, West Hazipara, Rampura \n Dhaka, Bangladesh 1219 \n Mobile: +8801916574623 \n web:www.inovexidea.com'
+                        android:textColor="#8b8b8b" />-->
+                    <!--
+                                        <TextView
+                                        android:id="@+id/short_description3"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_below="@+id/short_description4"
+                                        android:text= '@string/detail_3'
+                                        android:textColor="#8b8b8b" /> -->
+                    <TextView
+                        android:id="@+id/link"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/cardview_list_title4"
+                        android:gravity="right"
+                        android:text="বিস্তারিত>>"
+                        android:textColor="#33B5E5"
+                        android:textSize="14sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+<!--
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:background="@color/colorPrimary"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:gravity="center"
+                        android:layout_height="40dp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"
+                        android:textSize="16sp"
+                        android:text="@string/title_2"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:gravity="fill"
+                            android:text="@string/detail_2"/>
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+-->
+            <!-- Company profile- -->
+
+
+            <!-- end compnay-->
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
